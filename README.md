@@ -12,7 +12,7 @@ Download [NeuralNetwork v1.0 (2006-04-28)](../../archive/v1.0.zip)
 
 ## License
 
-**The license state of this library is unclear since the authors did not specify any license. Please contact the authors in order to motivate them to clarify the license state of this library.**
+BSD 3-Clause License
 
 ## Development and contribution
 Original author: [Fabio Codec&agrave;](http://it.linkedin.com/in/fabiocodeca), Politecnico Di Milano
