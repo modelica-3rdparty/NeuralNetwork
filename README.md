@@ -1,5 +1,5 @@
 # NeuralNetwork
-Free library that provides a neural network mathematical model. (unlicensed)
+Free library that provides a neural network mathematical model.
 
 ## Library description
 
